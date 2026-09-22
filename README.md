@@ -25,8 +25,8 @@ for i in range(10):   # iterate fixed number of times
 
 print("Square root =", x)
 
-Developed by:S.DHAYALAPRABU 
-RegisterNumber:  212224230065
+Developed by:K Santhosh 
+RegisterNumber:  212225040041
 
 ```
 
